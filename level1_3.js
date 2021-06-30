@@ -13,7 +13,6 @@
  * @param {string} message - The message to be translated in lowercase.
  * @return {string} - Translated Plant-Latin message.
  */
-
 function translatePlantLatin(message) {
     let mapping = new Map();
     mapping.set('a', 'tiva');

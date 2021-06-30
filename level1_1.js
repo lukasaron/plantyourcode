@@ -13,7 +13,6 @@
  * layout (for example [4, 5] represents a 4 row x 5 column
  * grid)
  */
-
 function grid(seedCount) {
     let side = Math.sqrt(seedCount);
     return [Math.round(side), Math.ceil(side)];

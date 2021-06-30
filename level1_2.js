@@ -38,7 +38,6 @@
  * @return {array} - An array of garden locations you should
  * water.
  */
-
 function whereToWater(plantsArray) {
     return plantsArray
         .filter(plant => plant.needsWater)
