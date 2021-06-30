@@ -1,4 +1,5 @@
 // LEVEL 1.2
+
 // Make sure your plants are thriving. The more sun they get, the more water they need.
 // Write a function that locates plants in your garden that need water.
 
